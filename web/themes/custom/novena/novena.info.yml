@@ -1,0 +1,28 @@
+name: Novena
+type: theme
+base theme: false
+description: "First Custom theme"
+core_version_requirement: ^8 || ^9
+libraries:
+  - novena/global-css
+  - novena/global-js
+regions:
+  topbar: Topbar
+  branding: Branding
+  navbar: Main Navbar
+  content: Content
+  promo: Promo Content
+  infoOnline: Online Appointment Info
+  infoSchedule: Schedule Info
+  infoEmergency: Emergency Info
+  services: Services
+  statistics: Statistics
+  patientCare: Patient Care
+  appointment: Appointment
+  testimonial: Testimonial
+  partners: Partners
+  footerSocial: Footer Social
+  footerDepartment: Footer Department
+  footerSupport: Footer Support
+  footerContact: Footer Contact
+  footerCopyright: Footer Copyright

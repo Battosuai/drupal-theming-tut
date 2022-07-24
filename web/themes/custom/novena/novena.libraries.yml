@@ -1,0 +1,11 @@
+global-css:
+  css:
+    theme:
+      css/style.css: {}
+      css/bootstrap.css: {}
+      css/bootstrap-grid.css: {}
+      css/bootstrap-reboot.css: {}
+global-js:
+  js:
+    js/main.js: {}
+    js/bootstrap.bundle.js: {}
